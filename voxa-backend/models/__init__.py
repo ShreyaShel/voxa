@@ -1,0 +1,1 @@
+from .progress_model import UserProgress
